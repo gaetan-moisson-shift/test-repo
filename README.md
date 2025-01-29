@@ -1,2 +1,2 @@
-# template_swf_repository
-[template] Template for a Software factory repository
+# Just a test repo
+Which has to be public for auto-merges.
